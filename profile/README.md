@@ -7,8 +7,7 @@
 # 近期更新动态
 > 0.7.0:
 > > 更改MayDOS_Functions位置，使于其目录及其目录上的文件能调用里面的函数
-
-> >修复MayDOS_Functions调用部分函数时报错的问题
+> > 修复MayDOS_Functions调用部分函数时报错的问题
 
 > > calc.py更新后可使用MayDOS_Functions的彩色自定义文本
 
